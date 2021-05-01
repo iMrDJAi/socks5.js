@@ -10,6 +10,7 @@ SOCKS v5 proxy server implementation in JavaScript for Node.js.
 -   [TODO](#todo)
 -   [Installation](#installation)
 -   [Usage](#usage)
+-   [Resources](#resources)
 -   [Notes](#notes)
 -   [License](#license)
 
